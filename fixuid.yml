@@ -1,0 +1,4 @@
+user: runner
+group: runner
+paths:
+ - /home/runner
